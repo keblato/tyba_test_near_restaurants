@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>108404553184-ii14ttgibc9237ejriab1oeac2aqu7kb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.108404553184-ii14ttgibc9237ejriab1oeac2aqu7kb</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDX5jJhd_T1HptQRIZ6nRLb2Lnv1WEstbo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>108404553184</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.tybaTestNearRestaurants</string>
+	<key>PROJECT_ID</key>
+	<string>movieroolette</string>
+	<key>STORAGE_BUCKET</key>
+	<string>movieroolette.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:108404553184:ios:b93b79c865d9e9da7c2785</string>
+</dict>
+</plist>
