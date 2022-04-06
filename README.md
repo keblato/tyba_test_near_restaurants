@@ -1,5 +1,13 @@
 # tyba_test_near_restaurants
 
+## RESULT
+
+No pude crear la vista de historial, ya que quería persistirlo con cache y no alcancé a hacerlo 
+Sin embargo, se guarda en una lista los nombres de las ciudades que se buscaron restaurantes 
+Bugs: 
+ - Hay un bug con el logo que se mueve con el teclado
+
+
 ## TODO 
 Deberás desarrollar una aplicación en flutter con las siguientes
 funcionalidades:
